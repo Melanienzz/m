@@ -1,0 +1,78 @@
+
+.ar{
+    color: brown;
+    background-color: rgba(201, 103, 103, 0.89);
+}
+
+.body2{
+    background-color: rgba(224, 124, 124, 0.783);
+}
+
+
+.ara{
+    font-size: 30px;
+    color: brown;
+}
+
+.hp{
+    height: 300px;
+    margin: 0 auto;
+    max-width: 100%;
+   
+}
+
+
+.j{
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.514);
+    padding: 20px;
+    width: 340px;
+    margin: 0 auto;
+
+
+}
+
+   .a{
+    color: rgb(203, 133, 133);
+   }
+.heh{
+    background-color: rgba(166, 94, 88, 0.6);
+}
+
+
+.oh{
+    background-color: rgb(142, 75, 56);
+    font-size:35px ;
+}
+
+.um{
+    background-color: rgb(126, 66, 66);
+    font-size: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    color: rgb(58, 15, 15);
+    
+    
+}
+
+.umh{
+    color: rgb(0, 0, 0);
+    
+}
+
+.umm{
+    font-size: 25px;
+    background-color: rgb(97, 46, 24);
+    color: rgb(0, 0, 0);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom:0;
+    height: 50px;
+    margin-bottom: 0;
+}
+
+
+
+
